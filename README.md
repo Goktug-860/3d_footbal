@@ -113,6 +113,7 @@ BENİM GÖRÜŞ VE SÖZLERİM
 
 Bunun diğer sürümlerini başka kullanıcılardan yapmalarını istiyorum.
 Onlar ise benimle iletişime geçip lütfen o sürümleri gönderin bu sayede başkalarının da yaptıklarını karıp ortaya yeni bir oyun yapmak çok isterim.
+DowlandZİP'e basımca otomatik iner ve masa üstüne 3d_footbal_main dosyasında assets kısmından unity simgeli işaret var onunla açabilirsiniz.
 Başarılar😊
 
 Göktuğ Arı
